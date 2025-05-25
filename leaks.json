@@ -8,4 +8,17 @@
   keyword: "leak",
   discordServerId: "1339625499122466890",
   flaggedBy: "Avocato"
+},
+
+
+{
+  name: "Mercedes Leaks | V4 Turns On",
+  links: ["https://discord.gg/WFBFq2J75r"],
+  reason: "Distributes leaked and stolen scripts without permission from original authors and Support DDoS Tools",
+  severity: "high",
+  blacklistedSince: "18-05-2025",
+  category: "discord",
+  keyword: "fivem-leak",
+  discordServerId: "1197522865793290321",
+  flaggedBy: "Avocato"
 }
